@@ -6,7 +6,7 @@ In this repo you will get a very powerfull command line encryption script.That c
 
 #### Step 1: 
 
-``` Go to the src folder of this directory and open cmd```
+``` Go to the src folder of this directory, open cmd and type the following commands```
 
 #### Step 2:For default case with --text=password --encrypt=pbkdf2_sha256
 
@@ -71,14 +71,14 @@ In this repo you will get a very powerfull command line encryption script.That c
 
 ![default_example](https://cloud.githubusercontent.com/assets/17814101/26668813/fd4cb6d4-46c8-11e7-8255-c7af33c6f558.JPG)
 
-###Custom text
+### Custom text
 
 ![custom_text](https://cloud.githubusercontent.com/assets/17814101/26668814/fd4f0920-46c8-11e7-99ce-6729c30ffd02.JPG)
 
-###Custom Text and Custom Encryption
+### Custom Text and Custom Encryption
 
 ![custom_encryption](https://cloud.githubusercontent.com/assets/17814101/26668812/fd3f0cd2-46c8-11e7-8051-fef4354ec67b.JPG)
-###Help
+### Help
 
 
 ![help](https://cloud.githubusercontent.com/assets/17814101/26668950/9545144a-46c9-11e7-883e-f2855c4bc688.JPG)
