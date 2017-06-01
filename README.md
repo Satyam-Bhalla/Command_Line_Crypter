@@ -8,7 +8,7 @@ In this repo you will get a very powerfull command line encryption script.That c
 
 ``` Go to the src folder of this directory, open cmd and type the following commands```
 
-#### Step 2:For default case with --text=password --encrypt=pbkdf2_sha256
+#### Step 2: For default case with --text=password --encrypt=pbkdf2_sha256
 
 ``` python crypter.py ```
 
