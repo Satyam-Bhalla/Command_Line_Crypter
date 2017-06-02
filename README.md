@@ -18,7 +18,7 @@ In this repo you will get a very powerfull command line encryption script.That c
 
 #### Step 4: Enter the following command for custom text and for custom encryption
 
-```python crypter.py --text=the string you want to encrypt --encrypt=Any encryption from the list given```
+```python crypter.py --text="the string you want to encrypt" --encrypt=Any encryption from the list given```
 
 #### Step 5: You can also check the usage with the help option
 
